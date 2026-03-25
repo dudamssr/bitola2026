@@ -1,4 +1,4 @@
-# Calculadora de Bitola de Fios
+# Calculadora de Bitola
 
 ## Descrição do Projeto
 
