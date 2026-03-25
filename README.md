@@ -61,10 +61,9 @@ flutter run
 
 ## Prints do Aplicativo
 - Imagens estão na pasta assets.
-  
-  <img width="1919" height="900" alt="Captura de tela 2026-03-25 110111" src="https://github.com/user-attachments/assets/3c18c9e4-60c7-4303-ba73-e2f0804a005a"
-  <img width="1919" height="897" alt="Captura de tela 2026-03-25 110057" src="https://github.com/user-attachments/assets/a8db9b4f-a1c7-4f95-97e2-824834286d62" />
- />
-<img width="1919" height="834" alt="Captura de tela 2026-03-25 110037" src="https://github.com/user-attachments/assets/9c9527e8-68b2-4f39-aa6b-3b47e1a317da" />
+<img width="1919" height="834" alt="Captura de tela 2026-03-25 110037" src="https://github.com/user-attachments/assets/35d3d3f0-ca46-4d47-b8a6-294dbe715841" />
+<img width="1919" height="897" alt="Captura de tela 2026-03-25 110057" src="https://github.com/user-attachments/assets/abfdea32-6b23-4f85-809d-8498f67a1897" />
+<img width="1919" height="900" alt="Captura de tela 2026-03-25 110111" src="https://github.com/user-attachments/assets/d6d13095-58ef-4831-864c-6947339c8e64" />
 
+  
 
